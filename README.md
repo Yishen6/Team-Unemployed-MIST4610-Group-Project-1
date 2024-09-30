@@ -63,4 +63,8 @@ Overall, the database revolves around the relationships between patients, doctor
 
 ## Queries: 
 
+Insert Queries Table Here
+
+Query 1: 
+
 ## Database Information: 
