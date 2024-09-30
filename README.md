@@ -33,7 +33,7 @@ Lastly, we depect Medication records for each patient. The same medication can b
 
 Overall, the database revolves around the relationships between patients, doctors, nurses, appointments, medications and insurance. Many-to-many relationships are shown through bridge tables such as Patient_has_Doctor, Patient_has_Nurse, PatientMedication and DoctoralCoverage. 
 
-<img width="791" alt="image" src="https://github.com/user-attachments/assets/43ce1d41-0f95-4a88-915c-900fc0244909">
+![MIST4610 Project 1 Model](https://github.com/user-attachments/assets/cde60cd4-bfba-48b3-950e-96306b98ba1c)
 
 ## Data Dictionary: 
 
