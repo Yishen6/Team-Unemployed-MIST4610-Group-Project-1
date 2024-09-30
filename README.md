@@ -35,8 +35,31 @@ Overall, the database revolves around the relationships between patients, doctor
 
 <img width="791" alt="image" src="https://github.com/user-attachments/assets/43ce1d41-0f95-4a88-915c-900fc0244909">
 
-
 ## Data Dictionary: 
+
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/82e3ded6-e391-4723-8309-690ba17d937c">
+
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/b24be467-7df7-4b6e-87b0-5797a8ea6a5e">
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/795f19e9-523d-4d87-b393-c6771ff5b686">
+
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/c08eb15b-b3e7-44ca-a90e-d8ee4f884e75">
+
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/d928f264-b50c-49f2-83cb-ad4b79cc4ad8">
+
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/b1e6c39d-596d-458a-9977-52b0234daa58">
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/adef2803-4b6f-4ed3-85cb-d54eebb3bab8">
+
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/5e3b9afd-60cf-47ae-b191-c4c604d5eee4">
+
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/a855a2aa-9b8e-437e-9e13-f2f99b061efe">
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/84033ca0-71a5-435a-87d6-ee16d0c378b3">
+
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/524552dd-4bdf-4e0d-a638-d3de809d0362">
+
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/aa42e2bd-5cd3-47f2-90dd-b7840a53dabf">
 
 ## Queries: 
 
