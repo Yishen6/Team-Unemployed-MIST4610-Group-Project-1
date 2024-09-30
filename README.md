@@ -8,7 +8,7 @@
 1. Ben Lim [gituser](link)
 2. Jason Roode
 3. Jack Schaeffer
-4. Yirong Shen
+4. Yirong Shen [Yishen6] (
 5. Nathan To
 
 ## Problem Description: 
