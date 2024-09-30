@@ -19,6 +19,10 @@ In order to provide the most efficient and organized method of patient intakes, 
 
 Explanation of the data model: 
 
+The data model is based off of how a hospital is potentially ran. Each entity represents either a hospital department (Doctor, Insurance, Billing, etc.) or a client that the hospital takes (Insurance, Patient, Appointment, etc.). 
+
+
+
 <img width="791" alt="image" src="https://github.com/user-attachments/assets/43ce1d41-0f95-4a88-915c-900fc0244909">
 
 
