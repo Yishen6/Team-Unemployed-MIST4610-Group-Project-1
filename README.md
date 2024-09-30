@@ -68,3 +68,7 @@ Insert Queries Table Here
 Query 1: 
 
 ## Database Information: 
+
+Name of Database: cs_ys69826
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
