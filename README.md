@@ -19,6 +19,9 @@ In order to provide the most efficient and organized method of patient intakes, 
 
 Explanation of the data model: 
 
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/43ce1d41-0f95-4a88-915c-900fc0244909">
+
+
 ## Data Dictionary: 
 
 ## Queries: 
