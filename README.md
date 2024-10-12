@@ -40,27 +40,29 @@ Overall, the database revolves around the relationships between patients, doctor
 
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/82e3ded6-e391-4723-8309-690ba17d937c">
 
-<img width="581" alt="image" src="https://github.com/user-attachments/assets/b24be467-7df7-4b6e-87b0-5797a8ea6a5e">
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/e81305f9-2436-4534-b23d-2478e284cc08">
 
-<img width="583" alt="image" src="https://github.com/user-attachments/assets/795f19e9-523d-4d87-b393-c6771ff5b686">
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/1f186705-522c-425a-973b-272c7842a373">
 
-<img width="582" alt="image" src="https://github.com/user-attachments/assets/c08eb15b-b3e7-44ca-a90e-d8ee4f884e75">
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/d656399f-8d1c-47d7-85ab-18bec6211b9d">
 
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/d928f264-b50c-49f2-83cb-ad4b79cc4ad8">
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/d770d854-03fc-40ba-ab53-ac041c5892ca">
 
-<img width="582" alt="image" src="https://github.com/user-attachments/assets/b1e6c39d-596d-458a-9977-52b0234daa58">
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/2dd1ffbd-a815-446e-9095-492a56833b10">
 
-<img width="583" alt="image" src="https://github.com/user-attachments/assets/adef2803-4b6f-4ed3-85cb-d54eebb3bab8">
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/927d55b0-346e-44ad-b2bb-041628cc1d7d">
 
-<img width="582" alt="image" src="https://github.com/user-attachments/assets/5e3b9afd-60cf-47ae-b191-c4c604d5eee4">
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/260e649e-b353-43d9-b5bd-cee25491a895">
 
-<img width="581" alt="image" src="https://github.com/user-attachments/assets/a855a2aa-9b8e-437e-9e13-f2f99b061efe">
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/5d2376b1-97a9-4dee-8127-d9a63a6b3cc2">
 
-<img width="583" alt="image" src="https://github.com/user-attachments/assets/84033ca0-71a5-435a-87d6-ee16d0c378b3">
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/38443938-aa73-4145-8edb-18b2f7ec65a5">
 
-<img width="580" alt="image" src="https://github.com/user-attachments/assets/524552dd-4bdf-4e0d-a638-d3de809d0362">
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/994a0a47-e829-440f-a41d-370b2f35210c">
 
-<img width="582" alt="image" src="https://github.com/user-attachments/assets/aa42e2bd-5cd3-47f2-90dd-b7840a53dabf">
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/7fe060a3-2252-4af6-b531-506e861bff1f">
+
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/7c36f8a5-c3a2-49f9-ba93-05642b44b41e">
 
 ## Queries: 
 
