@@ -82,7 +82,42 @@ Query 1: Give the appointments that were scheduled between October 20th and Octo
 
 <img width="1219" alt="image" src="https://github.com/user-attachments/assets/3c796dc7-1d65-47f4-b582-6d5d0939053c">
 
-Query 2: 
+Query 2: Find and list the insurance companies that offer a copay lower than the average copay. List the insurance id, company name and a new column names "avgCoPay".
+
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/4e47af3d-481c-4837-b820-8b6c3a1586eb">
+
+Query 3: Give the patient's full name and the insurance company they are using that have "Pending" payment statuses. Also include the amount billed. 
+
+<img width="1208" alt="image" src="https://github.com/user-attachments/assets/571efc08-c10b-49ae-adc0-8507a622696b">
+
+Query 4: For each individual nurse, only show the nurses that worked more hours than the average hours worked for all nurses. Include shift length in hours. 
+
+<img width="1205" alt="image" src="https://github.com/user-attachments/assets/b29f4eb2-b187-47e8-9329-c5103b3bbcc2">
+
+Query 5: List the patients that listed their parents as emergency contacts. Provide their contact information. 
+
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/7b4ec9ca-d308-4359-8c3e-85ac070ab673">
+
+Query 6: Find the patients with appointments that have have the area code 404 or 678. 
+
+<img width="1207" alt="image" src="https://github.com/user-attachments/assets/a6b2a2f5-12f7-4869-ab5f-2698f16d3512">
+
+Query 7: Given a doctor's unique id, show the patients that they cared for. Include their assigned dates and the date the patient is discharged on. 
+
+<img width="1206" alt="image" src="https://github.com/user-attachments/assets/8130ff60-ea36-40c8-8be2-b20754da6d7c">
+
+Query 8: For each insurance company, calculate the number of patients they have completed payments for, the average copay and the total amount paid. Total amount paid can be calculated as the sum of Deductibles and Copay. 
+
+<img width="1210" alt="image" src="https://github.com/user-attachments/assets/a4315432-351b-4419-bdb9-95e67b42f8b0">
+
+Query 9:  
+
+<img width="1209" alt="image" src="https://github.com/user-attachments/assets/f42dc742-3a47-43b2-8fea-1d8d48c52a51">
+
+Query 10:
+
+<img width="1208" alt="image" src="https://github.com/user-attachments/assets/bad7bfb7-ec75-49e8-b2c0-9c5d0cfbdf28">
+
 
 ## Database Information: 
 
