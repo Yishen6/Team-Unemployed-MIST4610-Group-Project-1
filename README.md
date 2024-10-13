@@ -50,15 +50,15 @@ Aside from patient care, we also have data regarding **Medication** that can be 
 
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/82e3ded6-e391-4723-8309-690ba17d937c">
 
-<img width="580" alt="image" src="https://github.com/user-attachments/assets/e81305f9-2436-4534-b23d-2478e284cc08">
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/d28dee6e-a643-4133-9804-48d378b9e238">
 
 <img width="580" alt="image" src="https://github.com/user-attachments/assets/1f186705-522c-425a-973b-272c7842a373">
 
 <img width="580" alt="image" src="https://github.com/user-attachments/assets/d656399f-8d1c-47d7-85ab-18bec6211b9d">
 
-<img width="582" alt="image" src="https://github.com/user-attachments/assets/d770d854-03fc-40ba-ab53-ac041c5892ca">
+<img width="618" alt="image" src="https://github.com/user-attachments/assets/145684ef-c362-4401-88aa-663651250383">
 
-<img width="580" alt="image" src="https://github.com/user-attachments/assets/2dd1ffbd-a815-446e-9095-492a56833b10">
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/fdca2640-aee8-415c-b6b1-de304c0d44f5">
 
 <img width="582" alt="image" src="https://github.com/user-attachments/assets/927d55b0-346e-44ad-b2bb-041628cc1d7d">
 
@@ -68,7 +68,7 @@ Aside from patient care, we also have data regarding **Medication** that can be 
 
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/38443938-aa73-4145-8edb-18b2f7ec65a5">
 
-<img width="611" alt="image" src="https://github.com/user-attachments/assets/994a0a47-e829-440f-a41d-370b2f35210c">
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/cd4f1a51-e38d-4b27-822b-87699d998faf">
 
 <img width="610" alt="image" src="https://github.com/user-attachments/assets/7fe060a3-2252-4af6-b531-506e861bff1f">
 
@@ -78,7 +78,11 @@ Aside from patient care, we also have data regarding **Medication** that can be 
 
 Insert Queries Table Here
 
-Query 1: 
+Query 1: Give the appointments that were scheduled between October 20th and October 27th. Show the appointment ID, date and time. Also show the full names of the patient and doctor that was involved in the appointment. 
+
+<img width="1219" alt="image" src="https://github.com/user-attachments/assets/3c796dc7-1d65-47f4-b582-6d5d0939053c">
+
+Query 2: 
 
 ## Database Information: 
 
