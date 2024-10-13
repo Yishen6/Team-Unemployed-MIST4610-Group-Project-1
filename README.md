@@ -19,19 +19,25 @@ In order to provide the most efficient and organized method of patient intakes, 
 
 Explanation of the data model: 
 
-The data model is based off of how a hospital is potentially ran. Each entity represents either a hospital department (Doctor, Insurance, Billing, etc.) or a client that the hospital takes (Insurance, Patient, Appointment, etc.). 
+The data model is based off of how a hospital is potentially ran. It creates a comprehensive view of the medical system, insurance coverage, appointments, patient care, and relationships between doctors, nurses and patients. 
 
-At the center of the data model, there is an entity labeled Doctor. Each doctor can be identified through their unique ID and has relevant information such as their names, department and years of experience in our database. For every doctor, there can be multiple appointments with patients. Each doctor can also have up to one malpractice case. Malpractice cases are tracked in a separate entity and can be identified by idDoctor. 
+Starting on the upper left corner, we have an entity labeled **Insurance**. It holds attributes such as idInsurance, InsuranceName, PremiumAmount, and Coverage. These columns help us identify each individual insurance company a customer may be using and how much the insurance may be offering to cover. Insurance has two many to many relationships with Doctor and Patient. 
 
-To the right of the Doctor entity, there is a separate entity called Patient. Each patient can have multiple doctors treat them and each doctor can treat multiple patients. This is shown by the table Patient_Has_Doctor, which holds data on when a patient is assigned a doctor and their discharge date. Each patient can also have multiple appointments and due to that they can have multiple Billing entries as well. But, each Billing entry only belongs to one patient. 
+The relationship with Doctors create a third entity table named, **Network**. This is a weak entity with two foreign identifiers which are the primary keys of Insurance and Doctor. Each network is linked to an insurance policy while an insurance company can be in multiple networks. Each network is also linked to a specific doctor while one doctor can work with multiple networks. 
 
-For Insurance, one insurance policy can cover multiple patients' bills. Through the entity DoctoralCoverage, insurance has a many to many relationship with Doctor, meaning a doctor can accept multiple insurance policies and an insurance policy can be accepted by multiple doctors. 
+The biggest entity we have is the table representing **Doctor**. This entity holds the attributes idDoctor, Doctorfname, Doctorlname, Doctordept, YearsExperience, HeadDoctor, Specialiation, Email, and PhoneNumber. Besides the data to identify or contact a doctor, this table also holds information regarding a Head Doctor that can be in charge of multiple doctors. Specialization is also a foreign key from the entity Concentration. Doctor is also linked to Appointment and CareHistory. 
 
-A Nurse can attend to multiple patients and a patient can have multiple nurses. The nurses shift is recorded in the Patient_has_Nurse table. 
+**Concentration** holds an identifier called idConcentration and ConcentrationName. A specific area of concentration can be practiced by multiple doctors. 
 
-Lastly, we depect Medication records for each patient. The same medication can be prescribed to multiple patients and a patient can be prescribed various types of medication. The date a patient starts a certain medication is recorded in the table PatientMedication. 
+For every **Appointment** that is made, we note the idAppointment, Appointmentdate, Appointmenttime, idPatient, and idDoctor. Appointment is also a third entity created from the many to many relationship between Doctor and Patient. An appointment can involve only one patient and doctor at a time. Each appointment is made for one doctor but a doctor can have many appointments. Each appointment is also made for a specific patient but a patient can make multiple appointments. 
 
-Overall, the database revolves around the relationships between patients, doctors, nurses, appointments, medications and insurance. Many-to-many relationships are shown through bridge tables such as Patient_has_Doctor, Patient_has_Nurse, PatientMedication and DoctoralCoverage. 
+Another big entity we store data on is **Patient**. We record the idPatient, Patientfname, Patientlname, PatientAge, Gender, Email, PhoneNumber and DOB for every patient. Patient has many relationships with entities such as Patient_has_Nurse, PatientMedication, EmergencyContact, Billing and CareHistory. 
+
+**CareHistory** is a weak entity made based of the many to many relationship between Doctor and Patient. A Doctor can have many listed care histories while each instance of care can only have one Doctor. Same with Patient where a patient can be treated multiple times but each listed history only has one patient. Every time care is given, it is possible for a patient to have a different doctor. CareHistory also records the AssignedDate and DischargeDate. 
+
+Taking a look at the upper right corner, we have an entity called **Nurse**. This entity holds information on idNurse, Nursefname, Nurselname, HoursWorked, Email, and PhoneNumber. Nurses have a many to many relationship to patients, which creates a separate entity called **Patient_has_Nurse**. This weak entity is identified by both Patient and Nurse id. It also holds information such as ShiftStart and ShiftEnd to represent the working hours of the nurse. Each patient can have multiple nurses caring for them while each nurse can care for multiple patients. A nurse can only work on only one patient at a time. 
+
+
 
 ![New Model](https://github.com/user-attachments/assets/4964daa2-7ced-4983-9c3b-64abd3741fc7)
 
