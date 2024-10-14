@@ -76,7 +76,7 @@ Aside from patient care, we also have data regarding **Medication** that can be 
 
 ## Queries: 
 
-<img width="527" alt="image" src="https://github.com/user-attachments/assets/5ddadda5-1c06-497b-afe1-d862f9418d63">
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/8d7e5c2a-0b42-4262-a4be-ab6148b4109b">
 
 Query 1: Give the appointments that were scheduled between October 20th and October 27th. Show the appointment ID, date and time. Also show the full names of the patient and doctor that was involved in the appointment. 
 
@@ -124,16 +124,19 @@ Query 8: For each insurance company, calculate the number of patients they have 
 
 <img width="1210" alt="image" src="https://github.com/user-attachments/assets/a4315432-351b-4419-bdb9-95e67b42f8b0">
 
+Query 8 can tell us the capabilities and size of each insurance company. A bigger, more well known company or plan would have more patients. From a business perspective, we would want to accept these more popular plans as payments because this would make the hospital more accessible to patients. The total amount the insurance pays for also gives us insight on how the insurance company is operating. A successful insurance company may be able to offer higher, fuller coverages. The hopital would want to work with these companies since they have deeper pockets. 
 
-
-Query 9:  
+Query 9: Calculate the total and average dosage prescribed for each type of medication. Include the number of times the medication was prescribed. 
 
 <img width="1209" alt="image" src="https://github.com/user-attachments/assets/f42dc742-3a47-43b2-8fea-1d8d48c52a51">
 
-Query 10:
+Query 9 helps the hospital's inventory management. By knowing how often a medication is prescribed, we can order that certain type of medication more frequently. Not only does this ensure that we can estimate the total cost the hospital might spend on medication for our accounts, it also ensures we have enough stock to provide service to our patients.  The calculated dosage will tell us how much of that medication we would need to order. 
 
-<img width="1208" alt="image" src="https://github.com/user-attachments/assets/bad7bfb7-ec75-49e8-b2c0-9c5d0cfbdf28">
+Query 10: List the doctor with the most years of experience from each department. Make sure to include their deptartment head if applicable. 
 
+<img width="1194" alt="image" src="https://github.com/user-attachments/assets/69e77599-da33-49f9-93a1-13e5bee65d93">
+
+Query 10 allows management to see which doctors have the most years of experience. This can commonly be correlated to highest capability to succeed in difficult procedures. Doctors with the most experience can also be prioritized when it comes to deciding promotions. If the result for the department head column comes back as null, we know that they are already in that position and further rewards should be considered. 
 
 ## Database Information: 
 
