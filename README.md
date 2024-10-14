@@ -7,7 +7,7 @@
 
 1. Ben Lim [@ben270lim](https://github.com/ben270lim/Team-Unemployed-MIST4610-Group-Project-1)
 2. Jason Roode
-3. Jack Schaeffer
+3. Jack Schaeffer [@jschaeffer2525](https://github.com/jschaeffer2525/Team-Unemployed-MIST4610-Group-Project-2)
 4. Yirong Shen [@Yishen6](https://www.github.com/Yishen6)
 5. Nathan To
 
